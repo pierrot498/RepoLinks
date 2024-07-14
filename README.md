@@ -11,6 +11,13 @@ This repository contains the project submitted to the EthGlobal Hackathon. The p
 - [Subgraph on Arbitrum Sepolia](https://testnet.thegraph.com/explorer/subgraphs/E2Q4FzdP9VmbWa7etg4JNmCviywKDZUP3LN1V7txcGww?view=Query&chain=arbitrum-sepolia)
 - [Subgraph API](https://api.studio.thegraph.com/query/64359/univ4-locker/version/latest)
 
+###
+- [LAUNCHER](https://testnet.bscscan.com/address/0x9206a06620Cd141c546B454a5B0e53b0152aA41e)
+Allows to initialize easily the poolmanager from the front end
+- [LOCKER HOOK](https://testnet.bscscan.com/address/0x74980ccF8f43C772dD89B824561f8803eC4A4960)
+Locks liquidity for a period of time on hooks
+
+
 ## Repository Links
 
 ### Front-end Repository

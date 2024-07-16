@@ -32,5 +32,3 @@ Locks liquidity for a period of time on hooks
 ### Side Hooks Repository
 - [Side Hooks for nounsDAO and Apecoin on Uniswap V4](https://github.com/pierrot498/hooks)
 
-### Video Link
-https://www.loom.com/share/cd00e03bd8da4ddd9756aa2bf47382fb?sid=c092a599-210c-4a2b-9328-bb798b04b1d2
